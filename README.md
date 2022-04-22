@@ -1,2 +1,2 @@
 # projeto-android
-Projeto criado no curso de html e css
+Projeto criado no curso de html e css do CursoemVideo.
